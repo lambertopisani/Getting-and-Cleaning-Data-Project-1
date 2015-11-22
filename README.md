@@ -15,7 +15,7 @@ The dataset includes the following files:
 
 - 'README.md'
 
-- 'avgtidy.txt': Shows information about the variables used on the feature vector.
+- 'avgtidy.txt': Shows the summary information about the variables used on the initial vector/dataset.
 
 For each record it is provided:
 - Average and Standard Deviation of Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
